@@ -2,7 +2,7 @@
 
 class Database {
     private $host = 'localhost';
-    private $db_name = 'myblog';
+    private $db_name = 'monblog';
     private $username = 'root';
     private $password = 'riaze';
     private $conn;
